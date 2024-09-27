@@ -1,1 +1,1 @@
-console.log("Version 1.0.0 - Initial version iof the app");
+console.log("Version 1.0.1 - Hotfirx for critical bug in version 1.0.0");
